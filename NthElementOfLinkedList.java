@@ -1,4 +1,3 @@
-package nthElementOfLinkedList;
 
 public class NthElementOfLinkedList {
     int data;

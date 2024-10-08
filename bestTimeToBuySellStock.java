@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class bestTimeToBuySellStock {
     public int maxProfit(int[] prices) {
         int buy = prices[0];
